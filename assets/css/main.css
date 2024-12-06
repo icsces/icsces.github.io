@@ -3,7 +3,6 @@ html {
   overflow-x: hidden;
 }
 
-
 body {
   background: #fff;
   font-size: 15px;
@@ -57,14 +56,6 @@ ul, ol {
 ul li, ol li {
   list-style: none;
 }
-
-.carousel-logo {
-  display: block;
-  margin: 0 auto;
-  max-width: 20px;
-  margin-bottom: 20px;
-}
-
 
 .hero-heading {
   font-size: 40px;
