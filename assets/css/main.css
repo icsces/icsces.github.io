@@ -3,6 +3,13 @@ html {
   overflow-x: hidden;
 }
 
+carousel-logo {
+  display: block;
+  margin: 0 auto;   
+  max-width: 150px;
+  margin-bottom: 20px;
+}
+
 body {
   background: #fff;
   font-size: 15px;
